@@ -1,0 +1,41 @@
+[33mcommit 4a49337934606aa7a14d781d2dd438ee25a271c6[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: snow2512 <1329728155@qq.com>
+Date:   Wed Feb 12 13:25:08 2020 +0800
+
+    add changes to file
+
+[33mcommit 4469d2f38c23d5b1cf0484acc0e88e461e7671ef[m
+Author: snow2512 <1329728155@qq.com>
+Date:   Wed Feb 12 12:22:44 2020 +0800
+
+    git tracks changes
+
+[33mcommit 555845ff866ddfbd0554552cc8484c752f51b318[m
+Author: snow2512 <1329728155@qq.com>
+Date:   Wed Feb 12 12:20:04 2020 +0800
+
+    add another line to learnGit
+
+[33mcommit 6a9606d3259f38fc6969a94e3da62dcdb52a2b39[m
+Author: snow2512 <1329728155@qq.com>
+Date:   Wed Feb 12 12:18:18 2020 +0800
+
+    add license to stage and add another line to learnGit
+
+[33mcommit 975331f66657421538d5cfbabae139b7468d38e1[m
+Author: snow2512 <1329728155@qq.com>
+Date:   Wed Feb 12 00:55:48 2020 +0800
+
+    append GPL
+
+[33mcommit d5eaaa0b562f19408a7b93fbb3a4480fc07a77a8[m
+Author: snow2512 <1329728155@qq.com>
+Date:   Wed Feb 12 00:53:41 2020 +0800
+
+    add distributed
+
+[33mcommit c3ec47121e167c7defb21e68e00e510c2c891cba[m
+Author: snow2512 <1329728155@qq.com>
+Date:   Wed Feb 12 00:48:13 2020 +0800
+
+    comment
